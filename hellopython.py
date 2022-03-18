@@ -1,3 +1,4 @@
-SeungJae Jeon , 201803186 , Electronic Engineering
+# SeungJae Jeon , 201803186 , Electronic Engineering
 
-print("hello world")
+print("hello world\n")
+print("SeungJae Jeon , 201803186 , Electronic Engineering")

@@ -1,6 +1,8 @@
 # SeungJae Jeon , 201803186 , Electronic Engineering
 toched by seungjae00
 print("hello world\n")
-print("SeungJae Jeon , 201803186 , Electronic Engineering\n")
+info = ["SeungJae Jeon , 201803186 , Electronic Engineering"]
+for i in info:
+  print(i)
 print("touched file\n")
-print("6")
+print("end")
